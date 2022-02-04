@@ -1,0 +1,6 @@
+colors:
+    f2f3f4 - white
+    447a9e - blue
+    313f48 - dark blue
+    ffe698 - gold
+    e9e0d7 - dirty
